@@ -1,6 +1,6 @@
 ## Configure Apache/Nginx on an EC2 instance.
 
-In this project, we will deploy a web server using Amazon EC2. You will launch an EC2 instance, install Nginx, and configure it to serve a basic website.
+In this project, we will deploy a web server using Amazon EC2. We will launch an EC2 instance, install Nginx, and configure it to serve a basic website.
 
 ### Steps to Set Up an EC2-based Web Server:
 
